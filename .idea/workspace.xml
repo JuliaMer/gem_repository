@@ -20,8 +20,8 @@
       <file leaf-file-name="bmi_gem.rb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../second_try_gem/bmi_gem.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="234">
+              <caret line="13" column="8" lean-forward="true" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -73,7 +73,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="260" />
     <option name="y" value="100" />
     <option name="width" value="1400" />
@@ -228,15 +228,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1523948345295</updated>
-      <workItem from="1523948346478" duration="7333000" />
+      <workItem from="1523948346478" duration="7692000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7333000" />
+    <option name="totallyTimeSpent" value="7692000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="260" y="100" width="1922" height="1153" extended-state="7" />
+    <frame x="260" y="100" width="1922" height="1153" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -354,8 +354,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../second_try_gem/bmi_gem.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="234">
+          <caret line="13" column="8" lean-forward="true" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
           <folding />
         </state>
       </provider>
